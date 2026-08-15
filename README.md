@@ -7,7 +7,8 @@ data cleaning, and pattern discovery in Excel and Power BI.
 
 ## Featured project
 
-**PeopleFirst HR Analytics** — an interactive Excel dashboard analyzing a
+**PeopleFirst HR Analytics**  
+An interactive Excel dashboard analyzing a
 1,470-employee dataset: attrition rate, headcount by department and job role,
 and breakdowns by gender, marital status, education, and age. Includes
 working slicers for department and education field.
